@@ -1,0 +1,43 @@
+body{
+    font-family:Segoe UI;
+    background:#f4f7fc;
+}
+
+nav{
+    background:#2563eb;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+.card{
+    width:700px;
+    margin:50px auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,.15);
+}
+
+input{
+    width:100%;
+    padding:12px;
+    margin-top:15px;
+}
+
+button{
+    width:100%;
+    padding:12px;
+    margin-top:15px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.result{
+    font-size:35px;
+    color:green;
+    text-align:center;
+    margin-top:20px;
+}
